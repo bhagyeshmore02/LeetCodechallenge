@@ -11,9 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhagyeshmore02/LeetCodechallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/bhagyeshmore02/LeetCodechallenge/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/bhagyeshmore02/LeetCodechallenge/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhagyeshmore02/LeetCodechallenge/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/bhagyeshmore02/LeetCodechallenge/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
